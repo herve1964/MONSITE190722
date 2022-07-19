@@ -61,9 +61,9 @@
 <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="#">Partitions</a>
     </div>
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav"> 
         <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
         <li><a href="#">Link</a></li>
         <li class="dropdown">
