@@ -11,7 +11,7 @@ require __DIR__ . '/vendor/autoload.php';
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-md-7 col-lg-6 text-center bloc-img-description">
-				<h1>Ceci est un site de test en cours V124</h1>
+				<h1>Ceci est un site de test en cours V125</h1>
 				<p class="hidden-xs hidden-sm"> Mes liste de partitions sont en cours .....</p>
 				<a href="#" class="btn btn-lg btn-warning">Commandez Maintenant</a>
 			</div>
