@@ -19,7 +19,7 @@ $collection->add('create', $createRoute);
 $collection->add('show', $showRoute);
 
 $matcher = new UrlMatcher($collection, new RequestContext());
-$resultat = $matcher->match('/');
+$resultat = $matcher->match('/create');
 var_dump($resultat);
 die();
 ?>
