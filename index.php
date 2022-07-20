@@ -21,10 +21,8 @@ $collection->add('show', $showRoute);
 $matcher = new UrlMatcher($collection, new RequestContext());
 
 $pathInfo = $_SERVER['PATH_INFO'] ?? '/';
+dd($_SERVER);
 
 
 
 $resultat = $matcher->match($pathInfo);
-
-
-dd($_SERVER);
