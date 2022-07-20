@@ -32,7 +32,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Partitions</a>
+      <a class="navbar-brand" href="https://www.partitions-accordeon.com">Partitions</a>
     </div>
 
     <div class="collapse navbar-collapse" id="partie-reduite">
