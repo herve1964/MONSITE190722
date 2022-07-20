@@ -12,3 +12,35 @@ git push -u origin main
 git remote add origin https://github.com/herve1964/MONSITE190722.git
 git branch -M main
 git push -u origin main
+
+
+configuratiion Visual studio
+
+php intelephense
+php namespace resolver
+
+
+installer twig langage 2
+
+dans settik ctrl , 
+suggest basic decocher
+format cocher format on save 
+emmet ajouter format twig  value html
+
+Télécharger Laragon : https://laragon.org
+▶ Ou télécharger WampServer : https://www.wampserver.com
+
+▶ Installez aussi Composer :  https://getcomposer.org
+
+Si vous êtes sous Mac, utilisez Homebrew pour installer tout ce dont vous avez besoin :
+
+▶ Installez Homebrew : https://brew.sh (cela peut prendre du temps et cela va nécessiter votre mot de passe d'utilisateur Mac)
+▶ Installez PHP : brew install php
+▶ Installez MySQL : brew install mysql
+▶ Installez PHPMyAdmin : brew install phpmyadmin
+▶ Installez Composer : brew install composer
+
+
+
+gestion symfony/routing
+composer require symfony/routing
