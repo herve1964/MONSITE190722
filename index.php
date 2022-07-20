@@ -18,8 +18,15 @@ $collection->add('list', $listeRoute);
 $collection->add('create', $createRoute);
 $collection->add('show', $showRoute);
 
+
+
 $matcher = new UrlMatcher($collection, new RequestContext());
-$resultat = $matcher->match('/create');
+var_dump($_SERVER);
+//$pathInfo = $_SERVER->match['PATH_INFO'] ?? '/';
+
+$resultat = $matcher->match($pathInfo);
+
+
 var_dump($resultat);
 die();
 ?>
