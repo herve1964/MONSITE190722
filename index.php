@@ -10,7 +10,7 @@ use Symfony\Component\Routing\Matcher\UrlMatcher;
 include('includes/base.php');
 require __DIR__ . '/vendor/autoload.php';
 $listeRoute = new Route('/');
-$createRoute = new Route('/Create');
+$createRoute = new Route('/create');
 $showRoute = new Route('show');
 
 $collection = new RouteCollection();
