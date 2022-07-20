@@ -61,7 +61,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-6 col-md-7 col-lg-6 text-center bloc-img-description">
-			<h1>Ceci est un site de test en cours V11</h1>
+			<h1>Ceci est un site de test en cours V12</h1>
 			<p class="hidden-xs hidden-sm"> Etiam auctor enim eu libero varius, id tincidunt dolor iaculis. Aenean iaculis enim nec nulla sagittis, ut gravida felis tristique. Suspendisse rutrum neque quam, nec elementum tellus condimentum sit amet. Aliquam rhoncus fermentum leo vel pulvinar.</p>
 			<a href="#" class="btn btn-lg btn-warning">Commandez Maintenant</a>
 		</div>
@@ -71,56 +71,7 @@
 	</div>
 </div>
 
-<!-- 
-<div class="container">
-    <h1>Hello, world!</h1>
-</div>
- -->
-    
-<!-- 
-    <div class="row">
-    	<div class="bloc col-md-6 col-sm-8">
-    	
-    	</div>
-    	<div class="bloc col-md-6 col-sm-4">
-    	
-    	</div>
-    </div>
- -->
- 
-<!-- 
- <div class="container">   
-    <div class="row">
-    	<div class="bloc col-md-4 hidden-xs hidden-sm">
-    		bloc 1
-    	</div>
-    	<div class="bloc col-md-4">
-    		bloc 2
-    	</div>
-    	<div class="bloc col-md-4 hidden-xs hidden-sm">
-    		bloc 3
-    	</div>
 
-    </div>   
-</div>
- -->
- 
-<!-- 
-<div class="container">   
-    <div class="row">
-    	<div class="bloc col-md-4">
-    		<p class="responsive-font">Bloc 1</p>
-    	</div>
-    	<div class="bloc col-md-4">
-    		<p class="responsive-font">Bloc 2</p>
-    	</div>
-    	<div class="bloc col-md-4">
-    		<p class="responsive-font">Bloc 3</p>
-    	</div>
-
-    </div>   
-</div>
- -->
 
 	<!-- Appel du js Bootstrap -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
