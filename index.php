@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include('includes/base.php'); ?>
+<?php include('includes/base.php');
+require __DIR__ . '/vendor/autoload.php';
+?>
 
 <body>
 	<?php include('includes/navbar.php'); ?>

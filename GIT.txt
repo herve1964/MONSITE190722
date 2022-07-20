@@ -44,3 +44,4 @@ Si vous êtes sous Mac, utilisez Homebrew pour installer tout ce dont vous avez 
 
 gestion symfony/routing
 composer require symfony/routing
+require __DIR__ .'/vendor/autoload.php';
