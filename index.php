@@ -66,7 +66,7 @@
 			<a href="#" class="btn btn-lg btn-warning">Commandez Maintenant</a>
 		</div>
 		<div class="col-sm-6 col-md-5 col-lg-6">
-			<center><img src="img/img-madame.jpg" class="img-responsive" alt="Responsive image"></center>
+			<center><img src="img/Partitions.jpg" class="img-responsive" alt="Responsive image"></center>
 		</div>
 	</div>
 </div>
