@@ -1,3 +1,4 @@
+php -S localhost:3000
 echo "# MONSITE190722" >> README.md
 git init
 git add README.md
@@ -63,3 +64,5 @@ var_dump($resultat);
 die();
 
 var_dump($_SERVER); via path_info on recupere le nom de la route
+
+composer require --dev symfony/var-dumper   pour avoir dump correct
