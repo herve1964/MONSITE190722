@@ -1,3 +1,3 @@
 <?php
 
-echo "page liste";
+echo "page liste en cours";
