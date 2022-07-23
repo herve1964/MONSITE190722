@@ -21,13 +21,14 @@ $collection->add('show', $showRoute);
 
 $matcher = new UrlMatcher($collection, new RequestContext());
 
-//$pathInfo = $_SERVER->match['PATH_INFO'] ?? '/';
+$pathInfo = $_SERVER['PATH_INFO'] ?? '/';
 
 $resultat = $matcher->match($pathInfo);
 
 
 var_dump($resultat);
-die();
+$page = $resultat['_route'];
+require_once "pages/$page.php";
 ?>
 
 <body>
