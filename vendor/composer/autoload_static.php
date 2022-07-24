@@ -16,6 +16,7 @@ class ComposerStaticInitd5a47218875939fef879b5deaaf91203
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
+            'Symfony\\Requirements\\' => 21,
             'Symfony\\Polyfill\\Php80\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Component\\VarDumper\\' => 28,
@@ -24,6 +25,10 @@ class ComposerStaticInitd5a47218875939fef879b5deaaf91203
     );
 
     public static $prefixDirsPsr4 = array (
+        'Symfony\\Requirements\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/requirements-checker/src',
+        ),
         'Symfony\\Polyfill\\Php80\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-php80',
